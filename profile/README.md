@@ -1,12 +1,11 @@
-## Hi there 👋
+Welcome to the AspIT Project Repository! 👋
+This official GitHub organization is dedicated to hands-on, practical projects and assignments for our students. Here, you will find real-world coding tasks, technologies, and issues designed to help you build your practical skills and learn how to collaborate using modern version control.
 
-<!--
+🚀 How to Get Access
+If you are a student and need access to the organization, repositories, and project boards:
 
-**Here are some ideas to get you started:**
+Contact your teacher to get officially invited and added to the correct teams.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Once you accept your invitation, you will be able to view the assignments, pick up issues, and start collaborating.
+
+Let's write some code and build great things together!
